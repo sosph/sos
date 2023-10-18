@@ -2287,16 +2287,16 @@ def title():
                                                         VERSION 1.4 """)                                                                                                                                                                                                                                                                      
     stdout.write("             "+Fore.LIGHTRED_EX            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.LIGHTRED_EX+"╔═════════╩═════════════════════════════════╩═══════════════════════════╗\n")
-    stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    FB Page : SOSPH / Kheirbhen Lee"+Fore.LIGHTRED_EX  +"                                   ║\n")
+    stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    FB Page   : SOSPH / Kheirbhen Lee"+Fore.LIGHTRED_EX  +"                                   ║\n")
     stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    Copyright : Anonymous Philippines   "+Fore.LIGHTRED_EX  +"                              ║\n")
-    stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    Contact   : 09212121212  "+Fore.LIGHTRED_EX  +"                                         ║\n")
+    stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    Contact   : 0966666666  "+Fore.LIGHTRED_EX  +"                                         ║\n")
     stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    COMMAND   : 'help'       "+Fore.LIGHTRED_EX  +"                                         ║\n")
 
     stdout.write("             "+Fore.LIGHTRED_EX+"╚═══════════════════════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 ##############################################################################################
 def command():
-    stdout.write(Fore.LIGHTRED_EX+"╔═══"+Fore.LIGHTRED_EX+"[""sosph"+Fore.GREEN+"@"+Fore.LIGHTRED_EX+"root"+Fore.CYAN+"]"+Fore.LIGHTRED_EX+"\n╚══\x1b[38;2;0;255;189m> "+Fore.WHITE)
+    stdout.write(Fore.LIGHTRED_EX+"╔═══"+Fore.LIGHTRED_EX+"[""sosph"+Fore.GREEN+"@"+Fore.LIGHTRED_EX+"root"+Fore.LIGHTRED_EX+"]"+Fore.LIGHTRED_EX+"\n╚══\x1b[38;2;0;255;189m> "+Fore.WHITE)
     command = input()
     if command == "cls" or command == "clear":
         clear()
