@@ -2287,8 +2287,8 @@ def title():
                                                         VERSION 1.4 """)                                                                                                                                                                                                                                                                      
     stdout.write("             "+Fore.LIGHTRED_EX            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.LIGHTRED_EX+"╔═════════╩═════════════════════════════════╩═══════════════════════════╗\n")
-    stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    FB Page : https://www.facebook.com/profile.php?id=100087374997017"+Fore.LIGHTRED_EX  +" ║\n")
-    stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    Copyright : Philippine Cyber Alliance   "+Fore.LIGHTRED_EX  +"                          ║\n")
+    stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    FB Page : SOSPH / Kheirbhen Lee"+Fore.LIGHTRED_EX  +" ║\n")
+    stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    Copyright : Anonymous Philippines   "+Fore.LIGHTRED_EX  +"                          ║\n")
     stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    Contact   : 09212121212  "+Fore.LIGHTRED_EX  +"                                         ║\n")
     stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    COMMAND   : 'help'       "+Fore.LIGHTRED_EX  +"                                         ║\n")
 
