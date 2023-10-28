@@ -1,4 +1,4 @@
-# HOLD
+# TERMUX
 
 $cd dd
 $pip install socks
